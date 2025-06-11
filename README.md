@@ -5,3 +5,5 @@ efficiency, we utilized a Kanban board to assign tasks and deadlines.
 
 Please view Documentation.md to 
 acquaint yourself with the functionality and intended applications of this static analyzer.
+
+To run, simply run src/Main.java.
